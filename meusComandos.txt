@@ -1,0 +1,69 @@
+    1  clone https://github.com/GustavoVitorino/LI2021-teste.git
+    2  git clone https://github.com/GustavoVitorino/LI2021-teste.git
+    3  ls
+    4  cd LI2021-teste
+    5  ls
+    6  mkdir A107628
+    7  ls
+    8  cd A107628
+    9  ls
+   10  vi
+   11  vi README.md
+   12  vi README.md
+   13  git add .
+   14  git status
+   15  git commit -m '2ª tarefa'
+   16  git status
+   17  git commit '2ª tarefa'
+   18  ls
+   19  git commit -m 'tarefa 2'
+   20  git status
+   21  git commit -m '2ª tarefa'
+   22  git config --global user.email gustavovitorino@ua.pt
+   23  git commit -m '2ª tarefa'
+   24  git checkout -b main
+   25  git push -u origin main
+   26  git push main
+   27  git push master
+   28  git checkout
+   29  git push origin/main
+   30  git push -u origin main
+   31  git remote add origin https://github.com/GustavoVitorino/LI2021-teste.git
+   32  git push -u origin main
+   33  git push origin main
+   34  git push origin main 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 
+   35  git status
+   36  git push origin main
+   37  git push origin main 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
+   38  git push origin main
+   39  git status
+   40  ls
+   41  cd
+   42  ls
+   43  cd LI2021-teste
+   44  ls
+   45  touch index.html
+   46  ls
+   47  vi index.html
+   48  vi index.html
+   49  git commit -m '3ª tarefa'
+   50  git add index.html
+   51  git status
+   52  git commit -m '3ª tarefa'
+   53  git push origin main
+   54  vi index.html
+   55  git add index.html
+   56  git status
+   57  git commit -m '4ª tarefa'
+   58  git push origin main
+   59  git status
+   60  ls
+   61  cp index.html disciplina.html
+   62  ls
+   63  vi disciplina.html
+   64  vi disciplina.html 
+   65  git add disciplina.html 
+   66  git status
+   67  git commit -m '5ª tarefa'
+   68  git push origin main
+   69  history > meusComandos.txt
